@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.HotPropertyBinder", "EF.HotPropertyBinder\EF.HotPropertyBinder.csproj", "{DEF08D18-15F0-D205-FF12-2A07159E5A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF08D18-15F0-D205-FF12-2A07159E5A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF08D18-15F0-D205-FF12-2A07159E5A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF08D18-15F0-D205-FF12-2A07159E5A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF08D18-15F0-D205-FF12-2A07159E5A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B9A79DC-7853-4585-BDC4-DEEFE8718855}
+	EndGlobalSection
+EndGlobal
